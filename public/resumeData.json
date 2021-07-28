@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Deniz Jasarbasic",
-    "occupation":"high school student, future data scientist, and computer enthusiast",
+    "occupation":"high school student, future data scientist, and technologie enthusiast",
     "description":"In September of 2021, I will be beginning my next learning adventure at the University of Ottawa. I will be studying Computer Science and will be specializing in Data Science. I can't wait to begin",
     "image":"profilepic.jpg",
     "bio":"Hi my name is Deniz Jasarbasic. I love programming, contributing to the CS community, and enjoy building impactful side projects. Feel free to connect with me and check out my projects below. I am always looking to connect, chat, and meet new people everyday!",
@@ -55,7 +55,8 @@
         "school":"Lisgar Collegiate Institute",
         "degree":"High School Diploma (French Immersion)",
         "graduated":"2017 - 2021",
-        "description":"• Currently in my 4th year (grade 12).\n• Honors in the French Immersion Program."
+        "description":"• Currently in my 4th year (grade 12).",
+        "description1": "• Honors in the French Immersion Program."
       }
     ],
     "projects":[
